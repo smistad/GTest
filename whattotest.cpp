@@ -1,4 +1,3 @@
-#include "whattotest.hpp"
 #include <math.h>
 
 double squareRoot(const double a) {
